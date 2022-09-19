@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/drawable/backdrop.xml" value="0.1375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/layout/activity_description.xml" value="0.2056434373663959" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/layout/activity_main.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/layout/drawer_layout.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/layout/fragment_about.xml" value="0.1586582048957389" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.2056434373663959" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/layout/fragment_favourite.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/layout/fragment_profile.xml" value="0.1586582048957389" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/layout/recycler_dashboard_single_row.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/layout/recycler_favourite_single_row.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/menu/menu_dashboard.xml" value="0.20820863616930313" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/menu/menu_drawer.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyBookApp/app/src/main/res/xml/network_security_config.xml" value="0.10175511909736733" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11 (5)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
